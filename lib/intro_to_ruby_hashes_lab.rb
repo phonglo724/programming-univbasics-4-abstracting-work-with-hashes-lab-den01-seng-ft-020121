@@ -1,6 +1,6 @@
 def my_hash_creator(key, value)
   {:key => "value"}
-  my_hash_creater[:key] = 
+  my_hash_creater[:key] = 2
   # return a hash that includes the key and value parameters passed into this method
 end
 
