@@ -1,5 +1,5 @@
 def my_hash_creator(key, value)
- {:name, "Grace Hopper"}
+ my_hash_creator{:name, "George"}
  my_hash_creator[:id, 5]
  my_hash_creater["age", 39]
  # return a hash that includes the key and value parameters passed into this method
